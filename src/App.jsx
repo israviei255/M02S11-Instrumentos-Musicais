@@ -1,7 +1,7 @@
 import './App.css'
 import { BrowserRouter, Routes, Route } from "react-router";
 
-import InstrumentosCards from './paginas/InstrumentosCards';
+import InstrumentosCards from './paginas/Cards/InstrumentosCards';
 import InstrumentosTabela from './paginas/Tabela/InstrumentosTabela';
 
 function App() {
